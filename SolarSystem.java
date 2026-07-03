@@ -241,7 +241,7 @@ void drawHUD() {
   fill(255, 220, 80);
   textSize(22);
   textAlign(LEFT, CENTER);
-[5/6/2026 7:21 PM] Matthew (Khant Lwin): text("☀  Interactive Solar System", 18, 25);
+  text("☀  Interactive Solar System", 18, 25);
 
   fill(200, 200, 200);
   textSize(13);
